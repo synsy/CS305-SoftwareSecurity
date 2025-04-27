@@ -11,7 +11,7 @@ Artemis Financial needed enhanced software security to protect sensitive financi
 - Emphasized secure coding to protect company assets and client information.
 
 ## Challenges and Solutions
-Handling **certificate trust issues** during secure communications testing was challenging. To increase security layers, I managed dependencies carefully and ensured secure communication protocols. Future assessments would use tools like **OWASP Dependency-Check** and **Spring Security**.
+Handling **certificate trust issues** during secure communications testing was challenging. To increase security layers, I managed dependencies carefully and ensured secure communication protocols.
 
 ## Testing and Validation
 Post-refactoring, I:
